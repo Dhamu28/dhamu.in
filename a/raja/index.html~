@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Kitchen:Love</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./startup/flat-ui/images/favicon.ico">
+    <link rel="stylesheet" href="http://hipstafood.com/startup/flat-ui/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="http://hipstafood.com/startup/flat-ui/bootstrap/css/bootstrap-responsive.css">
+    <link rel="stylesheet" href="http://hipstafood.com/startup/flat-ui/css/flat-ui.css">
+    <!-- Using only with Flat-UI (free)-->
+    <link rel="stylesheet" href="http://hipstafood.com/startup/common-files/css/icon-font.css">
+    <!-- end -->
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script src="./startup/flat-ui/js/html5shiv.js"></script>
+    <![endif]-->
+    </head>
+    <body>
+        <!-- header-10 -->
+        <header class="header-10">
+            <div class="container">
+                <div class="navbar span12">
+                    <div class="navbar-inner">
+                        <button type="button" class="btn btn-navbar"> </button>
+                        <a class="brand" href="#">Loveing Menu</a>
+                        <div class="nav-collapse collapse pull-right">
+                            <ul class="nav">
+                                <li><a data-section="SectionApp" href="#">Design</a></li>
+                                <li><a data-section="SectionIngredients" href="#">Recipes</a></li>
+                                <li><a data-section="SectionCooking" href="#">Cooking</a></li>
+                                <li><a data-section="SectionHere" href="#">We’re almost here</a></li>
+                            </ul>                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="header-10-sub v-center">
+            <div class="background">&nbsp;</div>
+            <div>
+                <div class="container">
+                    <div class="hero-unit">
+                        <h1>Kitchen's delicious helper for every day</h1>
+                        <p>Everything we know about the kitchen in <br />one application on your iPhone</p>
+                    </div>
+                </div>
+            </div>
+            <span class="scroll-btn"><a href="#"> <span class="mouse"><span> </span></span></a></span>
+        </section>       
+        
+        <!-- content-7  -->
+        <section class="content-7 v-center" id="SectionApp">
+            <div>
+                <div class="container">
+                    <h3>Take a look at our Hipsta Food App</h3>
+                    <div class="row v-center">
+                        <div class="span3">                            
+                            <div class="span3"><a href="#">Set the time</a> that you have for cooking and we will pick an ideal recipe for you!</div>
+                        </div>
+                         <div class="span4">                           
+                            <div class="span4 offset1">
+                                <div class="screen-wrapper-custom">
+                                    <div class="screen-custom">
+                                        <img src="http://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&docid=I3aukOAq0zu_9M&tbnid=VfUUHYdIREeD5M:&ved=0CAgQjRw4Cg&url=http%3A%2F%2Fwww.wired.com%2F2013%2F11%2Foffset%2F&ei=ahOoU562F8u9ugTHiYLACw&psig=AFQjCNGRxpi3cYvamYZmKMSyQ3DGQulzsA&ust=1403610346648274"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="span3 info">                            
+                            <div class="span3 offset1">
+                                <h6>Simple interface</h6>
+                                We have come up with some important details for the interface. You will definitely appreciate its ease of use.
+                                <h6>Learn how to cook on the go</h6>
+                                We explain each recipe in a video like this, that will help you figure out all the details of the cooking process.
+                                <h6>Essential Tips</h6>
+                                Dozens of useful tips for each recipe. We will not leave you alone in the kitchen!
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- content-23  -->
+        <section class="content-23 v-center custom-bg" id="SectionIngredients">
+            <div>
+                <div class="container">
+                    <div class="hero-unit hero-unit-bordered">
+                        <h1>Buy the ingredients for your recipe</h1>
+                    </div>
+                </div>
+            </div>
+            <a class="control-btn fui-arrow-down" href="#"> </a>
+        </section>
+
+        <!-- content-8  -->
+        <section class="content-8 v-center">
+            <div>
+                <div class="container">
+                    <img src="img/recept@2.png" width="257" height="170" alt="">
+                    <h3>If you are missing ingredients</h3>
+                    <div class="row">
+                        <div class="span6 offset3">
+                            <p>If you are missing any ingredients for the recipe, you can order them right from the app. You can also order all of what you need for cooking that specific meal. Same day delivery!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- content-23  -->
+        <section class="content-23 v-center custom-bg2" id="SectionCooking">
+            <div>                
+                <div class="container">
+                    <div class="hero-unit hero-unit-bordered">
+                        <h1>Learn how to cook</h1>
+                    </div>
+                </div>
+            </div>
+            <a class="control-btn fui-arrow-down" href="#"> </a>
+        </section>
+
+        <!-- content-8  -->
+        <section class="content-8 v-center learning-process">
+            <div>               
+                <div class="container">
+                    <img src="img/app@2.png" width="200" height="200" alt="" />
+                    <h3>Fun learning process</h3>
+                    <div class="row">
+                        <div class="span6 offset3">
+                            <p>We have thought of everything, not to scare you away from this fun activity. We will tell you all the details of the cooking process in a simple and fun way!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- content-23  -->
+        <section class="content-23 v-center bg-midnight-blue learning-cook" id="SectionHere">
+            <div>                
+                <div class="container">
+                    <div class="hero-unit">
+                        <h1>Get ready for a whole new level <br />of learning to cook!</h1>
+                        <p class="lead">Very soon we will launch and you will <br />be able to see it yourself.</p>
+                    </div>
+                </div>
+            </div>
+            <a class="control-btn fui-arrow-down" href="#"> </a>
+        </section>
+
+        <!-- content-8  -->
+        <section class="content-8 v-center learning-cook">
+            <div>
+                <div class="container">
+                    <img src="img/dinamit@2.png" width="200" height="200" alt="" />
+                    <h3>We’re almost here!</h3>
+                    <div class="row">
+                        <div class="span6 offset3">
+                            <p>We are taking care of the last steps for the project launch and soon we will have our first beta release. If you don’t want to miss our release you can sign up for the project newsletter.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- content-13  -->
+        <section class="content-13 subscribe-form bg-clouds">
+            <div class="container">
+                <div class="row">
+                    <form action="http://hipstafood.us3.list-manage.com/subscribe/post" method="POST">
+                        <input type="hidden" name="u" value="0aa3373bcea2f71202f05dbef">
+                        <input type="hidden" name="id" value="838ad75f3c">
+                        <input type="hidden" name="orig-lang" value="1">
+                        <div class="span8">
+                            <input type="email" placeholder="Enter your e-mail" spellcheck="false" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0"  value="">
+                        </div>
+                        <div class="span4">
+                            <button class="btn btn-large btn-success" type="submit">Notify Me</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <!-- footer-3 -->
+        <footer class="footer-3">
+            <div class="container">
+                <div class="row v-center">
+                    <div class="span2">
+                        <div class="span2">
+                            <a class="brand" href="#">Hipsta Food</a>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="span7">
+                            <div class="additional-links">Made by Hipsta Food Crew. Powered by <a href="http://designmodo.com/startup" target="_blank">Startup Framework</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script type="text/javascript" src="//use.typekit.net/wwv4ffe.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <script src="http://hipstafood.com/startup/flat-ui/js/jquery-1.8.3.min.js"></script>
+        <script src="http://hipstafood.com/startup/flat-ui/js/bootstrap.min.js"></script>
+        <script src="http://hipstafood.com/startup/common-files/js/easing.min.js"></script>
+        <!--[if lt IE 8]>
+        <script src="./startup/flat-ui-pro/js/icon-font-ie7.js"></script>
+        <![endif]-->
+        <script src="http://hipstafood.com/startup/common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+        <script src="http://hipstafood.com/startup/common-files/js/jquery.parallax.min.js"></script>
+        <script src="http://hipstafood.com/startup/common-files/js/startup-kit.js"></script>
+        <script src="http://hipstafood.com/js/script.js"></script>
+    </body>
+</html>
