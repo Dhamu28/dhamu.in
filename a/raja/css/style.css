@@ -1861,7 +1861,7 @@ body {
   }
 }
 .content-23.custom-bg2 {
-  background: url('../img/img-2.jpg') 50% 50%;
+  background: url('http://hipstafood.com/img/img-2.jpg') 50% 50%;
   height: 665px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
