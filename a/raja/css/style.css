@@ -1832,7 +1832,7 @@ body {
 }
 .content-23.custom-bg {
   background-color: white;
-  background-image: url('../img/table.jpg'), url('../img/table1.jpeg');
+  background-image: url('../img/table.jpg'), url('http://www.splashome.com/wp-content/uploads/the-zinc-house-by-new-homes-land-the-zinc-house-12-photo-12-1144x840.jpg');
   background-position: bottom center;
   background-repeat: no-repeat, repeat-x;
   background-image: url('../img/table.jpg') \9;
