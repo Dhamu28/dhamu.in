@@ -1,4 +1,6 @@
-body {
-    background-image: url("img-1.jpg");
-    background-repeat: none;
-}
+body { 
+        background-image: url("img-1.jpg"); 
+        background-repeat: repeat-x;
+        background-color: #cccccc;
+       background-position: center top; 
+     }
