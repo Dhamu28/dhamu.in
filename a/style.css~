@@ -1,0 +1,3 @@
+body {
+    backgrounnd-image: url("img-1.jpg");
+}
