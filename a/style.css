@@ -1,6 +1,6 @@
 body { 
         background-image: url("img-1.jpg"); 
-        background-repeat: repeat-x;
+        background-repeat: repeat-z;
         background-color: #cccccc;
        background-position: center top; 
      }
