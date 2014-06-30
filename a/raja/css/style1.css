@@ -25,6 +25,109 @@ border-bottom-color:#34495e!important;
 border-top-color:#34495e!important;
 }
 
+/*color switcher*/
+.color-switcher {
+    width: 195px;
+    position:fixed;
+    left: -195px;
+    top: 150px;
+    background: #fff;
+    z-index: 999;
+    padding:15px 0 5px;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+    border-bottom-right-radius:4px;
+}
+.color-switcher h5 {
+    font-size: 15px;
+    margin-top: 0;
+    padding: 0 20px 0;
+}
+.color-switcher p {
+    padding-bottom:7px;
+    font-size:14px;
+    color:#595959;
+    margin-bottom:0;
+}
+.color-switcher ul {
+    list-style:none;
+    padding:0;
+}
+.color-switcher ul li {
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.color-switcher ul li a {
+    display: block;
+    width: 30px;
+    height: 30px;
+    outline: none;
+}
+.color-switcher ul li a.blue {
+    background: #1bb1e9;
+}
+.color-switcher ul li a.green {
+    background: #7fc719;
+}
+.color-switcher ul li a.red {
+    background: #e54242;
+}
+.color-switcher ul li a.yellow {
+    background: #ff9c00;
+}
+.color-switcher ul li a.brown {
+    background: #987654;
+}
+.color-switcher ul li a.cyan {
+    background: #1abc9c;
+}
+.color-switcher ul li a.purple {
+    background: #c74a73;
+}
+.color-switcher ul li a.sky-blue {
+    background: #00cdcd;
+}
+.color-switcher .gray {
+    background: rgb(126, 139, 140);
+}
+.color-switcher .black {
+    background: rgb(0, 0, 0);
+}
+.picker_close {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: -40px;
+    top: 0px;
+    text-align:center;
+    background:#fff;
+    border-bottom-right-radius:4px;
+    border-top-right-radius:4px;
+}
+.picker_close i {
+    font-size:22px;
+    margin-top:9px;
+}
+.position {
+    left: 0;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+.theme-colours, .layouts, .backgrounds, .choose-header, .choose-footer {
+    display: table;
+    padding: 10px;
+    text-align: left;
+    padding-top:0px;
+    width:100%;
+}
+
 body {
 font-size:14px;
 overflow-x:hidden;
