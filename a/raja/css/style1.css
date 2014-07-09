@@ -27,9 +27,9 @@ border-top-color:#34495e!important;
 
 /*color switcher*/
 .color-switcher {
-    width: 195px;
+    width: 220px;
     position:fixed;
-    left: -195px;
+    left: -220px;
     top: 150px;
     background: #fff;
     z-index: 999;
