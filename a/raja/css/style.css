@@ -1670,7 +1670,7 @@ body {
   }
 }
 .header-10-sub .background {
-  background-image: url("http://purehdwall.com/wp-content/uploads/2014/02/big_cakes_hd_wallpaper.jpg");
+  background-image: url("../img/img-1.jpg");
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -1794,7 +1794,7 @@ body {
   padding: 90px 23px 90px 25px;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
-  background: url("http://hipstafood.com/img/iphone.png") no-repeat;
+  background: url("../img/iphone.png") no-repeat;
 }
 @media (max-width: 979px) and (min-width: 768px) {
   .content-7 .screen-wrapper-custom {
@@ -1832,7 +1832,7 @@ body {
 }
 .content-23.custom-bg {
   background-color: white;
-  background-image: url('../img/table.jpg'), url('http://www.splashome.com/wp-content/uploads/the-zinc-house-by-new-homes-land-the-zinc-house-12-photo-12-1144x840.jpg');
+  background-image: url('../img/table.jpg'), url('../img/table1.jpg');
   background-position: bottom center;
   background-repeat: no-repeat, repeat-x;
   background-image: url('../img/table.jpg') \9;
@@ -1861,7 +1861,7 @@ body {
   }
 }
 .content-23.custom-bg2 {
-  background: url('http://hipstafood.com/img/img-2.jpg') 50% 50%;
+  background: url('../img/img-2.jpg') 50% 50%;
   height: 665px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
