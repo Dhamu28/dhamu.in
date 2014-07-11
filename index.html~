@@ -10,7 +10,7 @@
 
     <title>Dhamu || A perfect web designer</title>
 
-    <link rel="icon" href="./img/jk.ico"/>
+    <link rel="shortcut icon" href="img/jk.ico"/> 
 
    <!-- Bootstrap Core CSS -->
    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -70,7 +70,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive img-rounded" src="./img/profile.png" alt="" width="300px">
+                    <img class="img-responsive img-rounded" src="jugal-kishore.png" alt="" width="300px">
                     <div class="intro-text">
                         <span class="name">Dhamu</span>
                         <hr class="star-light">
@@ -97,7 +97,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pf1.png" class="img-responsive" alt="" />
+                        <img src="img/portfolio/sign_in1.png" class="img-responsive" alt="" />
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -107,7 +107,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pf2.png" class="img-responsive" alt="" />
+                        <img src="img/portfolio/cake.png" class="img-responsive" alt="" />
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -117,7 +117,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pf3.png" class="img-responsive" alt="" />
+                        <img src="img/portfolio/circus.png" class="img-responsive" alt="" />
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -127,7 +127,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pf4.png" class="img-responsive" alt="" />
+                        <img src="img/portfolio/game.png" class="img-responsive" alt="" />
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -137,7 +137,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pf5.png" class="img-responsive" alt="" />
+                        <img src="img/portfolio/safe.png" class="img-responsive" alt="" />
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -147,7 +147,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pf6.png" class="img-responsive" alt="" />
+                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="" />
                     </a>
                 </div>
             </div>
@@ -163,13 +163,18 @@
                 </div>
             </div>
             <div class="row">
-                 <div class="col-lg-4 col-lg-offset-2">  
-                    <p align="justify">We are a professional web services organization that is powered with the best talent and most modern technology for online solutions.<br>So, Keep enjoying life........... </p>
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>The work includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
                 </div>
-           </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="#" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Download Theme
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -220,27 +225,27 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>Gol Bazar, Sri Gangangar
-                        <br>Rajasthan, INDIA (335001)</p>
+                        <p>3481 Melrose Place
+                            <br>Beverly Hills, CA 90210</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
                         <ul class="list-inline">
-                            <li><a href="http://facebook.com/jugalsuthar.dhamu"; class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
-                            <li><a href="https://plus.google.com/u/0/115240231963614268777"; class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                             </li>
-                            <li><a href="http://www.twitter.com/sutharjugalk"; class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
                             </li>
-                          <!--  <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                             </li>
                             <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
-                            </li>-->
+                            </li>
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3 text-transform="capitalize">About Dhamu.in</h3>
-                        <p>Dhamu.in is a way to go ahead with web, to prepareing for a open sky. <br>Created with passion by <a href="http://www.Dhamu.in"> Jugal Dhamu</a>.</p>
+                        <h3>About Freelance</h3>
+                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
                     </div>
                 </div>
             </div>
@@ -249,7 +254,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                    Copyright &copy; 2014 Ceated by <a href="http://www.Dhamu.in"> Jugal Dhamu</a> 
+                        Copyright &copy; 2014 - Your Name
                     </div>
                 </div>
             </div>
@@ -275,18 +280,18 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Kitchen's Love</h2>
+                            <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/pf1.png" class="img-responsive img-centered" alt="">
-                           <!-- <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://dhamu28.github.io/a/raja">Kitcen's Love</a></strong>
+                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
                                 </li>
-                                <li>Date: <strong><a href="http://startbootstrap.com">May 2014</a></strong>
+                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
                                 </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Design and Development</a></strong>
+                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
                                 </li>
-                            </ul-->
+                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -306,18 +311,18 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Design With Wab</h2>
+                            <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/pf2.png" class="img-responsive img-centered" alt="">
-                           <!-- <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://startbootstrap.com">Avinash</a></strong>
+                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
                                 </li>
-                                <li>Date: <strong><a href="http://startbootstrap.com">May 2014</a></strong>
+                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
                                 </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Design and Development</a></strong>
+                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
                                 </li>
-                            </ul-->
+                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -337,10 +342,10 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Crope Web</h2>
+                            <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/pf3.png" class="img-responsive img-centered" alt="">
-<!--                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
                                 </li>
@@ -348,7 +353,7 @@
                                 </li>
                                 <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
                                 </li>
-                            </ul-->
+                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -368,18 +373,18 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Dhamu Static</h2>
+                            <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/pf4.png" class="img-responsive img-centered" alt="">
-<!--                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://dhamu28.githut.io">Dhamu</a></strong>
+                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
                                 </li>
-                               <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
+                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
                                 </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Design and Development</a></strong>
+                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
                                 </li>
-                            </ul-->
+                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -399,10 +404,10 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Bar Councial</h2>
+                            <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/pf5.png" class="img-responsive img-centered" alt="">
-                            <!--p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
                                 </li>
@@ -410,7 +415,7 @@
                                 </li>
                                 <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
                                 </li>
-                            </ul-->
+                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -430,10 +435,10 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Self</h2>
+                            <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/pf6.png" class="img-responsive img-centered" alt="">
-                            <!--p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
                                 </li>
@@ -441,7 +446,7 @@
                                 </li>
                                 <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
                                 </li>
-                            </ul-->
+                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
