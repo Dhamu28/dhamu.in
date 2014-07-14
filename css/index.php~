@@ -10,7 +10,7 @@ if(empty($name)||empty($visitor_email))
     { echo "Name and Email are mendentory!!!";
     exit;
 }
-$email_from = $_POST['email']; // put sender email address here
+$email_from = $_POST['email']; // put your email address here
 $email_subject = "New from submission";
 $email_body = " this email receved form your website visitor $name\n".
     "$email_address: $visitor_email\n".
